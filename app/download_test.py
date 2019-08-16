@@ -4,6 +4,7 @@ import os
 import re
 import requests
 from selenium import webdriver
+from app import PROJECT_PATH
 
 
 
@@ -12,7 +13,7 @@ class Wy_music():
     def __init__(self, name):
         self.url_temp = 'http://music.163.com/song/media/outer/url?id={}.mp3'
         # self.url_temp = 'http://music.163.com/song/media/outer/url?id=516847399.mp3'
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Firefox(executable_path='/home/ban/chromedriver/geckodriver')
         self.i_list = []
         self.id_list = []
         self.name_list = []
@@ -36,7 +37,7 @@ class Wy_music():
             self.i_list.append(i)
             self.id_list.append(id.encode('utf-8'))
             # self.name_list.append(name + "_".decode('utf-8') + singer)
-            self.name_list.append(name.encode('utf-8') + "_" + singer.encode('utf-8'))
+            self.name_list.append(name.encode('utf-8') + "_".encode('utf-8') + singer.encode('utf-8'))
             print("no: %d, name:%s, singer:%s, id=%s" % (i, name, singer, id))
 
 
@@ -74,15 +75,16 @@ class Wy_music():
         print('{}正在下载'.format(song_name))
         response = requests.get(url)
         # full_songname = song_name + '.mp3'
-        full_songname = song_name + '_.mp3'
-        with open(r'D:\MusicWorld\MusicK\app\%s' % (full_songname.decode('utf-8')), 'wb') as f:
+        full_songname = song_name + '_.mp3'.encode('utf-8')
+        with open(r'%s/raw/%s' % (PROJECT_PATH, full_songname.decode('utf-8')), 'wb') as f:
+        # with open(r'D:\MusicWorld\MusicK\app\%s' % (full_songname.decode('utf-8')), 'wb') as f:
             f.write(response.content)
             print('{}下载完成'.format(full_songname))
 
 
     def choose_musicid(self, song_dict):
         # num_str = '1'
-        num_str = raw_input('请输入你需要下载歌曲的编号,以空格隔开： ')
+        num_str = input('请输入你需要下载歌曲的编号,以空格隔开： ')
         num_list = num_str.split(' ')
         for num in num_list:
             try:
@@ -101,8 +103,8 @@ class Wy_music():
 
 
 if __name__ == '__main__':
-    name = raw_input('请输入你要搜索的歌名或歌手:')
-    # name = '邓紫棋'
+    # name = input('请输入你要搜索的歌名或歌手:')
+    name = '邓紫棋'
     print("test: %s" % name)
     wy = Wy_music(name)
     song_dict = wy.get_id_name()

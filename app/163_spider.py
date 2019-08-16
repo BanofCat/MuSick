@@ -10,7 +10,7 @@ url = 'https://www.kaistart.com/project/more.html'
 try:
     browser.get(url)
     wait = WebDriverWait(browser, 20)
-    wait.until(lambda  dr: dr.find_element_by_class_name('project-detail').is_displayed())
+    wait.until(lambda dr: dr.find_element_by_class_name('project-detail').is_displayed())
     js1 = 'return document.body.scrollHeight'
     js2 = 'window,scrollTo(0, document.body.scrollHeight)'
     old_scroll_height = 0

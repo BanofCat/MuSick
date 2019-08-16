@@ -1,0 +1,1556 @@
+1565937485908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p1pzJc138TL1"
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:3293): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565937486766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565937486766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565937486766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3572): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565937490321	Marionette	INFO	Listening on port 42564
+1565937490506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+1565937559666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rFeFIPkls6p1"
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:4038): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565937559971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565937559971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565937559972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4181): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565937562264	Marionette	INFO	Listening on port 45175
+1565937562285	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4262): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+[Parent 3293, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3293, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1565937565014	Marionette	INFO	Stopped listening on port 42564
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+1565937641955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hgq9fiVfhqqy"
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:4769): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565937642704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565937642704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565937642704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4928): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:4994): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565937645450	Marionette	INFO	Listening on port 44344
+1565937645481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+[Parent 4038, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1565937650814	Marionette	INFO	Stopped listening on port 45175
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Parent 4769, Gecko_IOThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1565937675532	Marionette	INFO	Stopped listening on port 44344
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4769): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565938817568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SgBa4qLc35ww"
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:11292): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565938818257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565938818257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565938818257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11433): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565938820608	Marionette	INFO	Listening on port 46778
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:11513): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565938820690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+1565938831419	Marionette	INFO	Stopped listening on port 46778
+[Parent 11292, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939068298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.17527ZIkVcck"
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:12855): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565939068627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565939068627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565939068627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13033): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939070872	Marionette	INFO	Listening on port 40848
+1565939070915	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+[Parent 12855, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1565939128412	Marionette	INFO	Stopped listening on port 40848
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939881002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k7BsLdBzUgpv"
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:17436): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565939881305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565939881305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565939881305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17569): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939883815	Marionette	INFO	Listening on port 34285
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:17663): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565939883928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+1565939927179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FmmkLzM6zXES"
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(firefox:17946): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565939927501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565939927501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565939927501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939929886	Marionette	INFO	Listening on port 36376
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:13:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:17:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:37:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:41:7: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:58:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:63:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:68:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:92:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:97:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:18168): Gtk-WARNING **: Theme parsing error: gtk-widgets-assets.css:102:16: Missing name of pseudo-class
+1565939929992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168, line 133: unreachable code after return statement
+[Parent 17436, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17436, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1565939938675	Marionette	INFO	Stopped listening on port 34285
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1565939942376	Marionette	INFO	Stopped listening on port 36376
+[Parent 17946, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-sc3iFa/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
